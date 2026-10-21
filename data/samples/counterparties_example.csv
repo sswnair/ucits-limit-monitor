@@ -1,0 +1,8 @@
+# Fictional names and exposures for testing. Not real institutions or positions.
+type,body,exposure_pct,is_credit_institution
+deposit,Liffey Bank plc,3.0,yes
+deposit,Corrib Bank AG,18.5,yes
+otc,Boyne Trust Bank,4.0,yes
+otc,Boyne Trust Bank,5.5,yes
+otc,Northwind Markets Ltd,5.5,no
+otc,Corrib Bank AG,2.0,yes

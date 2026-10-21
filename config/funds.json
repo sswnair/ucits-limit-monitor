@@ -1,0 +1,27 @@
+{
+  "funds": [
+    {
+      "ticker": "CNDX",
+      "name": "iShares NASDAQ 100 UCITS ETF",
+      "product_id": "253741",
+      "slug": "ishares-nasdaq-100-ucits-etf",
+      "file_ticker": "CSNDX",
+      "regime": "index_tracker",
+      "price_symbol": "cndx.uk",
+      "reference_symbol": "^ndx",
+      "reference_name": "Nasdaq-100 index"
+    },
+    {
+      "ticker": "IUIT",
+      "name": "iShares S&P 500 Information Technology Sector UCITS ETF",
+      "product_id": "280510",
+      "slug": "ishares-sp-500-information-technology-sector-ucits-etf",
+      "site": "ch/professionals/en",
+      "regime": "index_tracker_exceptional",
+      "price_symbol": "iuit.uk",
+      "reference_symbol": null,
+      "reference_name": null,
+      "notes": "Tracks the S&P 500 Capped 35/20 Information Technology index, so one issuer may go above 20%."
+    }
+  ]
+}
